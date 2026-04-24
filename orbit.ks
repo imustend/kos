@@ -3,8 +3,8 @@
 // while the second one performs a circularization burn.
 // This is how the staging should look like from bottom to top:
 // Stage 1 - Main engine and boosters start
-// Stage 2 - Booster seperation
-// Stage 3 - Main stage seperation and secondary engine start
+// Stage 2 - Booster separation
+// Stage 3 - Main stage separation and secondary engine start
 
 parameter upper_stage_isp.
 parameter angle_of_gravity_turn.
